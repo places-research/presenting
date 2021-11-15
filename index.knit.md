@@ -1,10 +1,10 @@
 ---
-title: "MudanÃ§as nos deslocamentos para compras durante a Pandemia COVID-19"
+title: "Mudanças nos deslocamentos para compras durante a Pandemia COVID-19"
 subtitle: "Meet xaringan"
 author: 
 - name: Renata Oliveira
 - affiliation: CEFET-MG
-date: "2021/11/17 (updated: `r Sys.Date()`)"
+date: "2021/11/17 (updated: 2021-11-15)"
 output:
   xaringan::moon_reader:
     css: ["default", "css/reta.css"]
@@ -22,13 +22,7 @@ output:
     seal: false 
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(warning = FALSE, message = FALSE)
-# options(knitr.table.format = "html")
-library(tidyverse)
-library(fontawesome) # from github: https://github.com/rstudio/fontawesome
-library(plotly)
-```
+
 
 
 layout: true
@@ -47,7 +41,7 @@ background-size: none
 .middle[
 .huge[
 
-MudanÃ§as nos deslocamentos para compras durante a Pandemia COVID-19 - Belo Horizonte
+Mudanças nos deslocamentos para compras durante a Pandemia COVID-19 - Belo Horizonte
 
 ]
 
@@ -87,9 +81,9 @@ AGENDA
 1. Equipe
 2. Contexto
 3. Objetivos
-4. Materiais e mÃ©todos
+4. Materiais e métodos
 5. Resultados
-6. PrÃ³ximas anÃ¡lises
+6. Próximas análises
 ]]
 
 
@@ -122,13 +116,13 @@ EQUIPE
 
 Renata Oliveira (CEFET-MG)
  
-LÃ­lian Bracarense (UFT)
+Lílian Bracarense (UFT)
 
-TainÃ¡ Possas (CEFET-MG)
+Tainá Possas (CEFET-MG)
 
 Pedro Linhares (CEFET-MG)
 
-Almir JÃºnior (CEFET-MG)
+Almir Júnior (CEFET-MG)
 
 ]]
 
@@ -143,9 +137,9 @@ CONTEXTO
 ]
 
 ---
-O acesso Ã s atividades urbanas durante a pandemia de Covid-19 e seus impactos sobre mobilidade urbana: O contexto brasileiro caracterizamos a diferenciaÃ§Ã£o de acesso Ã s atividades essenciais dentro das cidades brasileiras durante o distanciamento social e a intenÃ§Ã£o de manter mudanÃ§as de comportamento relativas a estas atividades no perÃ­odo pÃ³s-pandÃªmico.**
+O acesso às atividades urbanas durante a pandemia de Covid-19 e seus impactos sobre mobilidade urbana: O contexto brasileiro caracterizamos a diferenciação de acesso às atividades essenciais dentro das cidades brasileiras durante o distanciamento social e a intenção de manter mudanças de comportamento relativas a estas atividades no período pós-pandêmico.**
 
-Cadeia de viagens e hÃ¡bitos de consumo
+Cadeia de viagens e hábitos de consumo
 
 
 ---
@@ -174,16 +168,16 @@ OBJETIVOS
 
 --
 
-- **Relacionar** as caracterÃ­sticas **socioeconÃ´micas e demogrÃ¡ficas** com os padrÃµes de **deslocamentos para compras** antes e durante a pandemia COVID19;
+- **Relacionar** as características **socioeconômicas e demográficas** com os padrões de **deslocamentos para compras** antes e durante a pandemia COVID19;
 
 --
 
-- **Caracterizar** as **mudanÃ§as** em relaÃ§Ã£o Ã s **viagens encadeadas** visando compras no contexto da pandemia COVID19;
+- **Caracterizar** as **mudanças** em relação às **viagens encadeadas** visando compras no contexto da pandemia COVID19;
 
 --
 
 .pink-faint[
-- Identificar possÃ­veis desigualdades e iniquidades socioespaciais considerando o acesso nos deslocamentos para compras antes e durante a pandemia COVID19;
+- Identificar possíveis desigualdades e iniquidades socioespaciais considerando o acesso nos deslocamentos para compras antes e durante a pandemia COVID19;
 ]
 ---
 
@@ -193,32 +187,30 @@ background-image: url(img/street1.jpg)
 background-size: cover
 
 .extrahuge[
-MATERIAIS E MÃ‰TODOS
+MATERIAIS E MÉTODOS
 ]
 
 
 ---
 
-# Materiais e mÃ©todos
+# Materiais e métodos
 
 .pull-left[
 ## Perfil amostral
 
 - Amostra: **208 respostas** para BH
-- ObservaÃ§Ãµes validadas: **181 respostas**
+- Observações validadas: **181 respostas**
 - Erro amostral: **6,11%** 
-- NÃ­vel de confianÃ§a de **90%**.
+- Nível de confiança de **90%**.
 ]
 
 .pull-right[
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("img/amostra.png")
-```
+<img src="img/amostra.png" width="2800" />
 ]
 
 ---
 
-# Materiais e mÃ©todos
+# Materiais e métodos
 
 
 .pull-left[
@@ -228,78 +220,56 @@ knitr::include_graphics("img/amostra.png")
 ]
 
 .pull-right[
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("img/genero_idade.png")
-```
+<img src="img/genero_idade.png" width="2800" />
 ]
 
 
 ---
 
-# Materiais e mÃ©todos
+# Materiais e métodos
 
 
 .pull-left[
 ## Perfil amostral
-- 25% - ensino mÃ©dio
+- 25% - ensino médio
 - 27% - ensino superior
-- 28% - pÃ³s-graduaÃ§Ã£o lato-sensu
+- 28% - pós-graduação lato-sensu
 - 20% - mestrado ou doutorado
 ]
 
 .pull-right[
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("img/genero_educa.png")
-```
+<img src="img/genero_educa.png" width="2800" />
 ]
 
 ---
 
-# Materiais e mÃ©todos
+# Materiais e métodos
 
 
 .pull-left[
 ## Perfil amostral
 - 31% - empresa privada
-- 23% - servidor pÃºblico
+- 23% - servidor público
 - 19% - estudante
-- 19% - autÃ´nomos
+- 19% - autônomos
 ]
 
 .pull-right[
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("img/genero_prof.png")
-```
+<img src="img/genero_prof.png" width="2800" />
 ]
 
 ---
 
-# Materiais e mÃ©todos
+# Materiais e métodos
 
 
 .pull-left[
 ## Perfil amostral
 - 39% - renda acima de 5 mil e contribuem
 - 18% - renda entre 1,5 mil e 3,0 mil e contribuem
-- 16% - renda abaixo de 1,5 mil e sÃ£o dependentes
+- 16% - renda abaixo de 1,5 mil e são dependentes
 ]
 
 .pull-right[
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("img/genero_renda.png")
-```
-]
-
-----
-class: right, middle, inverse
-
-
-# Find me at...
-
-[`r fa(name = "twitter")` @retaoliveira](http://twitter.com/retaoliveira)  
-[`r fa(name = "github")` @retaoliveira](http://github.com/retaoliveira)  
-[`r fa(name = "link")` retaoliveira.github.io/places](https://retaoliveira.github.io/places)  
-[`r fa(name = "paper-plane")` renataoliveira@cefetmg.br](mailto:renataoliveira@cefetmg.br)
-
 
 
