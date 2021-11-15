@@ -356,7 +356,7 @@ knitr::include_graphics("img/isolamento_risco.png")
 - LISA (Indicadores Locais de Autocorrelação espacial) uni e bivariado
 - Regressão espacial
 ]
-f
+
 ---
 
 # Resultados
