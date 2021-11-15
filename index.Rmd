@@ -70,11 +70,6 @@ AGENDA
 
 .pull-right[
 <br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 ]
 
 ---
@@ -114,10 +109,6 @@ EQUIPE
 ]]
 
 .pull-right[
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 <br></br>
 ]
 
