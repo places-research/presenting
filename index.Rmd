@@ -338,8 +338,11 @@ knitr::include_graphics("img/isolamento_risco.png")
 - Análise Exploratória de Dados - estatísticas descritivas não espaciais e espaciais
 
 - Teste Chi-Quadrado
+
 - Teste Fisher
+
 - LISA (Indicadores Locais de Autocorrelação espacial) uni e bivariado
+
 - Regressão espacial
 
 
@@ -350,47 +353,107 @@ knitr::include_graphics("img/isolamento_risco.png")
 ## Métodos de análise
 
 - Análise Exploratória de Dados - estatísticas descritivas não espaciais e espaciais
+
 .pink-faint[
 - Teste Chi-Quadrado
+
 - Teste Fisher
+
 - LISA (Indicadores Locais de Autocorrelação espacial) uni e bivariado
+
 - Regressão espacial
 ]
 
 ---
 
 # Resultados
-
+## Frequência de deslocamentos
 
 .pull-left[
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("img/modo_genero2.png")
+.center[
+Compras   
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
+knitr::include_graphics("img/freq_genero.png")
 ```
-]
+]]
 
 .pull-right[
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("img/modo_genero1.png")
+.center[
+Serviços   
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
+knitr::include_graphics("img/freq_genero_serv.png")
 ```
-]
+]]
+
 
 ---
 
 # Resultados
+## Modos de transporte - **compras**
 
 
 .pull-left[
+.center[
+**Modo de transporte**   
+Frequência absoluta
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("img/compra_bens.png")
+knitr::include_graphics("img/modo_genero2.png")
 ```
-]
+]]
 
 .pull-right[
+.center[
+**Modo de transporte**   
+Proporção
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("img/modo_genero1.png")
+```
+]]
+
+---
+
+# Resultados
+## Modos de transporte - **serviços**
+
+.pull-left[
+.center[
+**Modo de transporte**   
+Frequência absoluta
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="80%"}
+knitr::include_graphics("img/modo_genero4.png")
+```
+]]
+
+.pull-right[
+.center[
+**Modo de transporte**   
+Proporção
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="80%"}
+knitr::include_graphics("img/modo_genero3.png")
+```
+]]
+
+
+---
+
+# Resultados
+## Frequência e Encadeamento dos deslocamentos
+
+.pull-left[
+.center[
+**Frequência**
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
+knitr::include_graphics("img/compra_bens.png")
+```
+]]
+
+.pull-right[
+.center[
+**Encadeamento**
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
 knitr::include_graphics("img/chain_bens.png")
 ```
-]
-
+]]
 
 ---
 
@@ -414,6 +477,7 @@ knitr::include_graphics("img/paper.png")
 
 - Post-pandemic intention is statistically dependent on activities' characteristics.
 ]
+
 
 ---
 # Considerações finais e próximas análises
