@@ -205,6 +205,7 @@ MATERIAIS E MÉTODOS
 ## Perfil amostral
 
 - Coleta realizada em **Maio/2020**
+- Método de coleta: _Survey_ na **web**
 - Amostra: **208 respostas** para BH
 - Observações validadas: **181 respostas**
 - Erro amostral: **6,11%** 
