@@ -356,14 +356,44 @@ knitr::include_graphics("img/isolamento_risco.png")
 - LISA (Indicadores Locais de Autocorrelação espacial) uni e bivariado
 - Regressão espacial
 ]
+f
+---
+
+# Resultados
+
+
+.pull-left[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("img/modo_genero2.png")
+```
+]
+
+.pull-right[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("img/modo_genero1.png")
+```
+]
 
 ---
 
 # Resultados
 
 
+.pull-left[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("img/compra_bens.png")
+```
+]
+
+.pull-right[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("img/chain_bens.png")
+```
+]
+
 
 ---
+
 # Considerações finais e próximas análises
 ## Públicação deste estudo até o momento
 
