@@ -458,21 +458,21 @@ knitr::include_graphics("img/chain_bens.png")
 ---
 
 # Resultados
-## Frequência e Encadeamento dos deslocamentos
+## Fatores de escolha - E-commerce
 
 .pull-left[
 .center[
-**Frequência**
+**Antes**
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
-knitr::include_graphics("img/compra_bens.png")
+knitr::include_graphics("img/likert_antes.png")
 ```
 ]]
 
 .pull-right[
 .center[
-**Encadeamento**
+**Depois**
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
-knitr::include_graphics("img/chain_bens.png")
+knitr::include_graphics("img/likert_depois.png")
 ```
 ]]
 
