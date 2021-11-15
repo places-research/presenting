@@ -57,7 +57,7 @@ Renata Oliveira | 17/11/2021
 <!-- this ends up being the title slide since seal = FALSE-->
 
 ---
-class: left, inverse, middle
+class: left, inverse
 
 background-image: url(img/agenda2.jpg)
 background-position: top
@@ -69,12 +69,11 @@ AGENDA
 ]]
 
 .pull-right[
-<br></br>
 ]
 
 ---
 
-class: left, inverse, middle
+class: left, inverse
 
 background-image: url(img/agenda3.png)
 background-position: top
@@ -97,7 +96,7 @@ AGENDA
 
 
 ---
-class: left, inverse, middle
+class: left, inverse
 
 background-image: url(img/people.jpg)
 background-position: top
@@ -109,11 +108,11 @@ EQUIPE
 ]]
 
 .pull-right[
-<br></br>
+
 ]
 
 ---
-class: left, inverse, middle
+class: left, inverse
 
 background-image: url(img/people3.jpg)
 background-position: top
@@ -140,7 +139,7 @@ Almir Júnior (CEFET-MG)
 ]]
 
 ---
-class: left, inverse, middle
+class: left, inverse
 
 background-image: url(img/shop3.jpg)
 background-size: cover
@@ -158,7 +157,7 @@ Cadeia de viagens e hábitos de consumo
 
 
 ---
-class: left,  middle, inverse
+class: left,  middle
 
 background-image: url(img/fluxo.png)
 background-size: none
@@ -166,7 +165,7 @@ background-size: none
 
 
 ---
-class: left, inverse, middle
+class: left, inverse
 
 background-image: url(img/shop1.jpg)
 background-size: cover
@@ -200,7 +199,7 @@ OBJETIVOS
 ]
 ---
 
-class: left, inverse, middle
+class: left, inverse
 
 background-image: url(img/street1.jpg)
 background-size: cover
