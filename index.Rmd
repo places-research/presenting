@@ -204,6 +204,7 @@ MATERIAIS E MÉTODOS
 .pull-left[
 ## Perfil amostral
 
+- Coleta realizada em **Maio/2020**
 - Amostra: **208 respostas** para BH
 - Observações validadas: **181 respostas**
 - Erro amostral: **6,11%** 
@@ -307,6 +308,23 @@ knitr::include_graphics("img/genero_renda.png")
 knitr::include_graphics("img/isolamento_risco.png")
 ```
 ]
+
+---
+
+# Materiais e métodos
+
+
+.pull-left[
+## Métodos de análise
+- 50% dos respondentes em isolamento total são pessoas de risco ou moram com alguém de risco para COVID19.
+- 58% dos respondentes estava em isolamento total.
+- Menos de 1% das pessoas em risco estão sem nenhum isolamento.
+]
+
+.pull-right[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("img/isolamento_risco.png")
+```
 
 ----
 class: right, middle, inverse
