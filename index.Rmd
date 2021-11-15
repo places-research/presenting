@@ -68,6 +68,9 @@ background-size: none
 AGENDA
 ]]
 
+.pull-right[
+]
+
 ---
 
 class: left, inverse, middle
@@ -103,6 +106,9 @@ background-size: cover
 .extrahuge[
 EQUIPE
 ]]
+
+.pull-right[
+]
 
 ---
 class: left, inverse, middle
@@ -142,6 +148,8 @@ CONTEXTO
 ]
 
 ---
+# Contexto
+
 O acesso às atividades urbanas durante a pandemia de Covid-19 e seus impactos sobre mobilidade urbana: O contexto brasileiro caracterizamos a diferenciação de acesso às atividades essenciais dentro das cidades brasileiras durante o distanciamento social e a intenção de manter mudanças de comportamento relativas a estas atividades no período pós-pandêmico.**
 
 Cadeia de viagens e hábitos de consumo
