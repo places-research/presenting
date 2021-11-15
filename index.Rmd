@@ -84,15 +84,21 @@ background-size: none
 AGENDA
 ]]
 
-.gray[
 .pull-right[
+.middle[
+.gray[
 1. Equipe
+
 2. Contexto
+
 3. Objetivos
+
 4. Materiais e métodos
+
 5. Resultados
+
 6. Considerações finais e próximas análises
-]]
+]]]
 
 
 ---
@@ -123,8 +129,9 @@ background-size: none
 EQUIPE
 ]]
 
-.gray[
 .pull-right[
+.gray[
+.middle[
 
 Renata Oliveira (CEFET-MG)
  
@@ -136,7 +143,7 @@ Pedro Linhares (CEFET-MG)
 
 Almir Júnior (CEFET-MG)
 
-]]
+]]]
 
 ---
 class: left, inverse
