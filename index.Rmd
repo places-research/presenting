@@ -457,6 +457,27 @@ knitr::include_graphics("img/chain_bens.png")
 
 ---
 
+# Resultados
+## Frequência e Encadeamento dos deslocamentos
+
+.pull-left[
+.center[
+**Frequência**
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
+knitr::include_graphics("img/compra_bens.png")
+```
+]]
+
+.pull-right[
+.center[
+**Encadeamento**
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
+knitr::include_graphics("img/chain_bens.png")
+```
+]]
+
+---
+
 # Considerações finais e próximas análises
 ## Públicação deste estudo até o momento
 
