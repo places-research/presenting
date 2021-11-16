@@ -158,12 +158,35 @@ CONTEXTO
 ---
 # Contexto
 
-O acesso às atividades urbanas durante a pandemia de Covid-19 e seus impactos sobre mobilidade urbana: O contexto brasileiro caracterizamos a diferenciação de acesso às atividades essenciais dentro das cidades brasileiras durante o distanciamento social e a intenção de manter mudanças de comportamento relativas a estas atividades no período pós-pandêmico.**
-
-Cadeia de viagens e hábitos de consumo
+- Pandemia - COVID-19
+- Disrupcão dos padrões de demanda urbana e hábitos de consumo
+- Incapacidade de manutenção dos instrumentos de planejamento - previsão de demanda a partir de dados históricos
+- Paradigma de planejamento orientado ao acesso a oportunidades nas cidades
+- Encadeamento de viagens como forma de mitigação dos impactos advindos das soluções de último quilômetro
 
 
 ---
+
+# Contexto
+## Públicação deste estudo até o momento
+
+.pull-left-narrow[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("img/paper.png")
+```
+]
+
+.pull-right-wide[
+.small[
+- Cidadãos com **menor escolaridade**, **autônomos** e que exercem **deslocamentos menos frequentes** **mudaram menos** sua rotina com motivo **trabalho**.
+- **Jovens** com **menor escolaridade** ou **menor renda** **mantiveram** os deslocamentos por **motivo educação e compras**. 
+- Cidadãos com **maior escolaridade** apresentam **melhores chances** de manter **atividades essenciais** **sem deslocamento**, incluindo por **motivo compras**. 
+- Usuários de **transporte público** apresentaram **menos oportunidades** de **mudar os padrões** de deslocamento por motivo **compras**. 
+- As **intenções** dos cidadãos quanto aos deslocamentos **após a pandemia** são **estatisticamente dependentes** das **características** das atividades.
+
+]]
+---
+
 class: left,  middle
 
 background-image: url(img/fluxo.png)
@@ -490,28 +513,7 @@ knitr::include_graphics("img/likert_depois.png")
 ```
 ]]
 
----
 
-# Considerações finais e próximas análises
-## Públicação deste estudo até o momento
-
-.pull-left[
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("img/paper.png")
-```
-]
-
-.pull-right[
-- Less schooling, self-employed or less frequent commuters changed less work routine.
-
-- Young, less schooling or low-income people maintained educational and purchase trips.
-
-- Higher schooling people have more chances to keep essential tasks without traveling.
-
-- Public transport users had fewer opportunities to switch from routine to purchasing.
-
-- Post-pandemic intention is statistically dependent on activities' characteristics.
-]
 
 
 ---
