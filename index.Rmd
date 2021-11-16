@@ -412,13 +412,12 @@ knitr::include_graphics("img/freq_genero_serv.png")
 ---
 
 # Resultados
-## Modos de transporte - **compras** e **serviços**
+## **Modos de transporte** - compras e serviços
 
 
 .pull-left[
 .center[
-**Modo de transporte**   
-Compras
+**Compras**
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
 knitr::include_graphics("img/modo_genero2.png")
 ```
@@ -426,8 +425,7 @@ knitr::include_graphics("img/modo_genero2.png")
 
 .pull-right[
 .center[
-**Modo de transporte**   
-Serviços
+**Serviços**
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
 knitr::include_graphics("img/modo_genero4.png")
 ```
@@ -458,11 +456,8 @@ knitr::include_graphics("img/chain_bens.png")
 
 # Resultados
 ## Frequência de compras pela internet por tipo de produto
-
-
 .center[
-**Frequência**
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="40%"}
 knitr::include_graphics("img/freq_genero_serv.png")
 ```
 ]
@@ -476,15 +471,17 @@ knitr::include_graphics("img/freq_genero_serv.png")
 .pull-left[
 .center[
 **Antes**
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="80%"}
 knitr::include_graphics("img/likert_antes.png")
 ```
 ]]
 
 .pull-right[
 .center[
-**Depois**
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
+**Durante**
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="80%"}
 knitr::include_graphics("img/likert_depois.png")
 ```
 ]]
