@@ -458,6 +458,20 @@ knitr::include_graphics("img/chain_bens.png")
 ---
 
 # Resultados
+## Frequência de compras pela internet por tipo de produto
+
+
+.center[
+**Frequência**
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
+knitr::include_graphics("img/freq_genero_serv.png")
+```
+]
+
+
+
+---
+# Resultados
 ## Fatores de escolha - E-commerce
 
 .pull-left[
