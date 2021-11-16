@@ -412,14 +412,14 @@ knitr::include_graphics("img/freq_genero_serv.png")
 ---
 
 # Resultados
-## Modos de transporte - **compras**
+## Modos de transporte - **compras** e **serviços**
 
 
 .pull-left[
 .center[
 **Modo de transporte**   
-Frequência absoluta
-```{r echo=FALSE, message=FALSE, warning=FALSE}
+Compras
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
 knitr::include_graphics("img/modo_genero2.png")
 ```
 ]]
@@ -427,35 +427,11 @@ knitr::include_graphics("img/modo_genero2.png")
 .pull-right[
 .center[
 **Modo de transporte**   
-Proporção
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-knitr::include_graphics("img/modo_genero1.png")
-```
-]]
-
----
-
-# Resultados
-## Modos de transporte - **serviços**
-
-.pull-left[
-.center[
-**Modo de transporte**   
-Frequência absoluta
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="80%"}
+Serviços
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
 knitr::include_graphics("img/modo_genero4.png")
 ```
 ]]
-
-.pull-right[
-.center[
-**Modo de transporte**   
-Proporção
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="80%"}
-knitr::include_graphics("img/modo_genero3.png")
-```
-]]
-
 
 ---
 
