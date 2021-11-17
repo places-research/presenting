@@ -490,24 +490,40 @@ knitr::include_graphics("img/internet_bens.png")
 
 
 ---
+
 # Resultados
 ## **Fatores de escolha** - _E-commerce_
-.pull-left[
+
 .center[
 **Antes**   
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="80%"}
 knitr::include_graphics("img/likert_antes.png")
 ```
-]]
+]
 
-.pull-right[
+---
+
+# Resultados
+## **Fatores de escolha** - _E-commerce_
+
+
 .center[
 **Durante**   
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="80%"}
 knitr::include_graphics("img/likert_depois.png")
 ```
-]]
+]
 
+---
+
+class: left, inverse
+
+background-image: url(img/street2.jpg)
+background-size: cover
+
+.extrahuge[
+CONSIDERAÇÕES FINAIS
+]
 
 ---
 # Considerações finais
