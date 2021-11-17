@@ -497,7 +497,7 @@ knitr::include_graphics("img/internet_bens.png")
 .center[
 **Antes**   
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="80%"}
-knitr::include_graphics("img/likert_antes.png")
+knitr::include_graphics("likert_antes.png")
 ```
 ]
 
@@ -510,7 +510,7 @@ knitr::include_graphics("img/likert_antes.png")
 .center[
 **Durante**   
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="80%"}
-knitr::include_graphics("img/likert_depois.png")
+knitr::include_graphics("likert_depois.png")
 ```
 ]
 
