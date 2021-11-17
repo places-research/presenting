@@ -54,6 +54,12 @@ Mudanças nos deslocamentos para compras durante a Pandemia COVID-19 - Belo Hori
 Renata Oliveira | 17/11/2021
 ]
 
+???
+
+Obrigada pela oportunidade. 
+
+Parabéns pela iniciativa dos eventos necessários para a sociedade.
+
 <!-- this ends up being the title slide since seal = FALSE-->
 
 ---
@@ -70,6 +76,10 @@ AGENDA
 
 .pull-right[
 ]
+
+???
+
+Agenda de hoje
 
 ---
 
@@ -117,6 +127,7 @@ EQUIPE
 
 ]
 
+
 ---
 class: left, inverse
 
@@ -156,21 +167,32 @@ CONTEXTO
 ]
 
 ---
+
 # Contexto
 
 - Pandemia - COVID-19
---
 
 - Disrupção dos padrões de demanda urbana e hábitos de consumo
---
 
 - Incapacidade de manutenção dos instrumentos de planejamento - previsão de demanda a partir de dados históricos
---
 
 - Paradigma de planejamento orientado ao acesso a oportunidades nas cidades
---
 
 - Encadeamento de viagens como forma de mitigação dos impactos advindos das soluções de último quilômetro
+
+???
+
+Vivemos um período excepcional que não tínhamos vivenciado antes. Entretanto, a pandemia se mostrou catalizadora de processos já em curso devido à 4a revolução industrial, como a digitalização das relações sociais e econômicas e as conseguentes mudanças nos padrões de demanda por funções urbanas e hábitos de consumo. 
+
+Nesse contexto disruptivo, existem lacunas metodológicas importantes, em especial as relacionadas à incapacidade de previsão. Michael Batty, em seu editorial de 2020, intitulado "Unpredictability", discute exatamente a impossibilidade de seguirmos trabalhando com modelos de planejamento das cidades fundamentados em previsão do futuro. As cidades estão se tornando mais complexas à medida que evoluem e à medida que as populações humanas adquirem cada vez mais tecnologias que continuamente lhes fornecem novos conjuntos de oportunidades. Neste sentido, nada é previsível. Imprevisibilidade é o novo normal.
+
+Temos, portanto, que revisar a estrutura de pensamento que rege o planejamento das cidades. Nesse contexto, podemos pensar na proposta de planejamento orientado ao acesso às oportunidades, com foco na redução de iniquidades socioespaciais. E a movimentação de mercadorias, com importância relativa da entrega domiciliar consolidada pela pandemia, é parte essencial desse planejamento.
+
+A contribuição de soluções de último quilômetro para a redução da emissão de GEE pode ser comprometida pelos novos hábitos. Como exemplo, tem-se o encadeamento de viagens para acesso a pontos de coleta e entrega (ou pickup points). Apesar de diferentes autores terem investigado os PCEs, especialmente no contexto europeu, não há consenso em relação aos impactos gerais desses sistemas nas cidades e à maneira como os consumidores se deslocam para acesso aos (Verlinde et al. 2019). 
+
+Assim, o estudo individualizado dessa temática torna-se importante para identificação dos impactos desses sistemas em cada contexto urbano de aplicação, justificando, portanto, a relevância do presente trabalho para a comunidade acadêmica e a sociedade belo-horizontina em uma forma geral.
+
+Edwards et al. (2010) atestou, por exemplo, que se os consumidores forem coletar seus produtos de carro ou de ônibus, a emissão de CO2 representaria boa parte da emissão total de um entrega convencional. Em contrapartida, Pålsson et al. (2017) afirma que o uso de automóveis individuais para realizar coletas em PCEs representa um consumo final de energia maior do que se a entrega fosse realizada em domicílio. Cardenas et al. (2017) calculou que a quantidade de viagens realizadas para coletar esses produtos de carro demandam um acréscimo de Pick-up Points em certas áreas para equilibrar os custos econômicos e ambientais, validando a perspectiva de que é necessário um planejamento integrado das cidades, considerando os sistemas de mobilidade e a estrutura espacial das oportunidades.
 
 
 ---
@@ -193,6 +215,14 @@ knitr::include_graphics("img/paper.png")
 - As **intenções** dos cidadãos quanto aos deslocamentos **após a pandemia** são **estatisticamente dependentes** das **características** das atividades.
 
 ]]
+
+???
+- Cidadãos com **menor escolaridade**, **autônomos** e que exercem **deslocamentos menos frequentes** **mudaram menos** sua rotina com motivo **trabalho**.
+- **Jovens** com **menor escolaridade** ou **menor renda** **mantiveram** os deslocamentos por **motivo educação e compras**. 
+- Cidadãos com **maior escolaridade** apresentam **melhores chances** de manter **atividades essenciais** **sem deslocamento**, incluindo por **motivo compras**. 
+- Usuários de **transporte público** apresentaram **menos oportunidades** de **mudar os padrões** de deslocamento por motivo **compras**. 
+- As **intenções** dos cidadãos quanto aos deslocamentos **após a pandemia** são **estatisticamente dependentes** das **características** das atividades.
+
 ---
 
 class: left,  middle
@@ -513,6 +543,10 @@ knitr::include_graphics("likert_antes.png")
 knitr::include_graphics("likert_depois.png")
 ```
 ]
+
+???
+
+
 
 ---
 
