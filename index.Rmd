@@ -532,8 +532,10 @@ Oportunidade de racionalização dos deslocamentos com uso das ferramentas de te
 
 class: right, middle, inverse
 
-
-# Find me at...
+.center[
+.huge[
+# MUITO OBRIGADA!
+]]
 
 [`r fa(name = "twitter")` @retaoliveira](http://twitter.com/retaoliveira)  
 [`r fa(name = "github")` @retaoliveira](http://github.com/retaoliveira)  
