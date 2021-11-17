@@ -421,7 +421,7 @@ RESULTADOS
 .pull-left[
 .center[
 **Compras**   
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
 knitr::include_graphics("img/freq_genero.png")
 ```
 ]]
@@ -429,7 +429,7 @@ knitr::include_graphics("img/freq_genero.png")
 .pull-right[
 .center[
 **Serviços**   
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
 knitr::include_graphics("img/freq_servico.png")
 ```
 ]]
@@ -444,7 +444,7 @@ knitr::include_graphics("img/freq_servico.png")
 .pull-left[
 .center[
 **Compras**
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
 knitr::include_graphics("img/modo_genero2.png")
 ```
 ]]
@@ -452,7 +452,7 @@ knitr::include_graphics("img/modo_genero2.png")
 .pull-right[
 .center[
 **Serviços**
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
 knitr::include_graphics("img/modo_genero4.png")
 ```
 ]]
@@ -465,7 +465,7 @@ knitr::include_graphics("img/modo_genero4.png")
 .pull-left[
 .center[
 **Frequência**
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
 knitr::include_graphics("img/compra_bens.png")
 ```
 ]]
@@ -473,7 +473,7 @@ knitr::include_graphics("img/compra_bens.png")
 .pull-right[
 .center[
 **Encadeamento**
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
 knitr::include_graphics("img/chain_bens.png")
 ```
 ]]
@@ -483,7 +483,7 @@ knitr::include_graphics("img/chain_bens.png")
 # Resultados
 ## **Frequência de compras** pela **internet**
 .center[
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="45%"}
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="50%"}
 knitr::include_graphics("img/internet_bens.png")
 ```
 ]
@@ -495,7 +495,7 @@ knitr::include_graphics("img/internet_bens.png")
 .pull-left[
 .center[
 **Antes**   
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="75%"}
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="80%"}
 knitr::include_graphics("img/likert_antes.png")
 ```
 ]]
@@ -503,7 +503,7 @@ knitr::include_graphics("img/likert_antes.png")
 .pull-right[
 .center[
 **Durante**   
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="75%"}
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="80%"}
 knitr::include_graphics("img/likert_depois.png")
 ```
 ]]
