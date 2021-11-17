@@ -491,22 +491,19 @@ knitr::include_graphics("img/internet_bens.png")
 
 ---
 # Resultados
-## Fatores de escolha - E-commerce
-
+## **Fatores de escolha** - _E-commerce_
 .pull-left[
 .center[
-**Antes**
-
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="80%"}
+**Antes**   
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="75%"}
 knitr::include_graphics("img/likert_antes.png")
 ```
 ]]
 
 .pull-right[
 .center[
-**Durante**
-
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="80%"}
+**Durante**   
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="75%"}
 knitr::include_graphics("img/likert_depois.png")
 ```
 ]]
