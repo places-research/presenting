@@ -159,9 +159,17 @@ CONTEXTO
 # Contexto
 
 - Pandemia - COVID-19
-- Disrupcão dos padrões de demanda urbana e hábitos de consumo
+--
+
+- Disrupção dos padrões de demanda urbana e hábitos de consumo
+--
+
 - Incapacidade de manutenção dos instrumentos de planejamento - previsão de demanda a partir de dados históricos
+--
+
 - Paradigma de planejamento orientado ao acesso a oportunidades nas cidades
+--
+
 - Encadeamento de viagens como forma de mitigação dos impactos advindos das soluções de último quilômetro
 
 
@@ -192,6 +200,13 @@ class: left,  middle
 background-image: url(img/fluxo.png)
 background-size: none
 
+
+---
+
+class: left,  middle
+
+background-image: url(img/fluxo1.png)
+background-size: none
 
 
 ---
@@ -389,12 +404,23 @@ knitr::include_graphics("img/isolamento_risco.png")
 
 ---
 
+class: left, inverse
+
+background-image: url(img/street4.jpg)
+background-size: cover
+
+.extrahuge[
+RESULTADOS
+]
+
+---
+
 # Resultados
-## Frequência de deslocamentos
+## **Frequência de deslocamentos** - compras e serviços
 
 .pull-left[
 .center[
-Compras   
+**Compras**   
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
 knitr::include_graphics("img/freq_genero.png")
 ```
@@ -402,9 +428,9 @@ knitr::include_graphics("img/freq_genero.png")
 
 .pull-right[
 .center[
-Serviços   
+**Serviços**   
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="85%"}
-knitr::include_graphics("img/freq_genero_serv.png")
+knitr::include_graphics("img/freq_servico.png")
 ```
 ]]
 
@@ -434,7 +460,7 @@ knitr::include_graphics("img/modo_genero4.png")
 ---
 
 # Resultados
-## Frequência e Encadeamento dos deslocamentos
+## **Frequência e Encadeamento** dos deslocamentos
 
 .pull-left[
 .center[
@@ -455,13 +481,12 @@ knitr::include_graphics("img/chain_bens.png")
 ---
 
 # Resultados
-## Frequência de compras pela internet por tipo de produto
+## **Frequência de compras** pela **internet**
 .center[
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="40%"}
-knitr::include_graphics("img/freq_genero_serv.png")
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="45%"}
+knitr::include_graphics("img/internet_bens.png")
 ```
 ]
-
 
 
 ---
