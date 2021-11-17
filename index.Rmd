@@ -483,7 +483,7 @@ knitr::include_graphics("img/chain_bens.png")
 # Resultados
 ## **Frequência de compras** pela **internet**
 .center[
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="50%"}
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="47%"}
 knitr::include_graphics("img/internet_bens.png")
 ```
 ]
