@@ -464,6 +464,12 @@ knitr::include_graphics("img/freq_servico.png")
 ```
 ]]
 
+???
+
+Homens e mulheres reduziram a frequencia de deslocamentos para compras no geral
+
+A manutenção de deslocamentos para serviços foi também predominante para os dois gêneros, sem alteração daqueles eventuais. 
+
 
 ---
 
@@ -487,6 +493,13 @@ knitr::include_graphics("img/modo_genero4.png")
 ```
 ]]
 
+???
+
+Homens mantiveram o uso de automóvel particular para deslocamentos para compras e mulheres reduziram o uso de todos os modos. Entretanto, homens aumentaram o uso de moto particular e deslocamentos ativos. 
+
+Para serviços, houve redução de todos os modos utilizados, por homens e mulheres. 
+
+
 ---
 
 # Resultados
@@ -506,7 +519,15 @@ knitr::include_graphics("img/compra_bens.png")
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
 knitr::include_graphics("img/chain_bens.png")
 ```
+
 ]]
+
+
+???
+
+Observando os deslocamentos por tipo de produtos, aqueles para compra de produtos de conveniência (farmácia, padaria) e de produtos essenciais (supermercado) sofreram redução. Mas essa redução foi mais expressiva nos deslocamentos para compra de bens duráveis.
+
+Um fato importante em relação à efetividade e mitigação de impactos advindos da distribuição urbana de mercadorias é a redução expressica do encadeamento de viagens por motivo compras. Sem esse encadeamento, soluções como pontos de coleta e entrega podem se tornar mais onerosos para o contexto urbano do que a entrega domiciliar tradicional.  
 
 ---
 
@@ -518,6 +539,9 @@ knitr::include_graphics("img/internet_bens.png")
 ```
 ]
 
+???
+
+Durante a pandemia observou-se um aumento da utilização de internet para compras de produtos de conveniência, essenciais e bens duráveis. Esse aumento precisa ser detalhado relacionando atributos socioeconômicos e demográficos ao padrão de compras online. 
 
 ---
 
@@ -530,6 +554,9 @@ knitr::include_graphics("img/internet_bens.png")
 knitr::include_graphics("likert_antes.png")
 ```
 ]
+
+???
+Houve pouca alteração da percepção dos consumidores quanto aos fatores relevantes para a decisão quanto à compra online. Entretanto destacam-se a possibilidade de não ter contato com o prestador de serviço no momento da entrega e a possibilidade de retirada em loja física no menor prazo. 
 
 ---
 
